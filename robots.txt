@@ -1,1 +1,1 @@
-Sitemap: https://jokersden.github.io/fastpages/sitemap.xml
+Sitemap: https://jokersden.github.io/blog/sitemap.xml
